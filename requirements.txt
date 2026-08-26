@@ -1,0 +1,5 @@
+# Dépendances Python du projet
+# À compléter avec les dépendances réelles, par exemple :
+# fastapi==0.115.0
+# sqlalchemy==2.0.34
+# pytest==8.3.2
